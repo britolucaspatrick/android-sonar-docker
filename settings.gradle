@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "android-sonar-docker"
 include ':app'
+
+rootProject.name = "com.example.android_sonar_docker"
